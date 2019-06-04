@@ -1,4 +1,4 @@
-#### docker compose
+#### docker compose stash
 version: '3'
 services:
     web:
