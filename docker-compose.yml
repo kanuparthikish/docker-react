@@ -1,4 +1,6 @@
-#### docker compose stash
+
+#### docker compose feature changes
+
 version: '3'
 services:
     web:
